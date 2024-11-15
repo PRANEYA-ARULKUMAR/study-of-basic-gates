@@ -78,9 +78,11 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
     assign c7 = ~(a ^ b);
     endmodule
 
- Developed by:A Praneya RegisterNumber:24900343
+ Developed by:A Praneya 
+ RegisterNumber:24900343
  
 **Logic symbol & Truthtable**
+
 ![Screenshot 2024-11-15 112455](https://github.com/user-attachments/assets/db094881-0224-4821-b2a7-61e96f863ade)
 
 
@@ -95,4 +97,4 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Result:**
 
-
+Thus the truth table of logic gates in Quartus II using Verilog programming are studied, verified and executed successfully.
