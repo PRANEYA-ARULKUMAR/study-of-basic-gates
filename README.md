@@ -79,6 +79,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
     endmodule
 
  Developed by:A Praneya 
+ 
  RegisterNumber:24900343
  
 **Logic symbol & Truthtable**
